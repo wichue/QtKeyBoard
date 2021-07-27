@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/googlepinyin.o
+release/inputcontext.o
+release/keyboardform.o
+release/keyeventdispatcher.o
+release/qlineeditallkeyboard.o
+release/moc_mainwindow.o
+release/moc_googlepinyin.o
+release/moc_inputcontext.o
+release/moc_keyboardform.o
+release/moc_keyeventdispatcher.o
+release/moc_qlineeditallkeyboard.o

@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/googlepinyin.o
+debug/inputcontext.o
+debug/keyboardform.o
+debug/keyeventdispatcher.o
+debug/qlineeditallkeyboard.o
+debug/moc_mainwindow.o
+debug/moc_googlepinyin.o
+debug/moc_inputcontext.o
+debug/moc_keyboardform.o
+debug/moc_keyeventdispatcher.o
+debug/moc_qlineeditallkeyboard.o

@@ -1,0 +1,18 @@
+CREATE bin\libgooglepinyin.a
+ADDMOD release\dictbuilder.o
+ADDMOD release\dictlist.o
+ADDMOD release\dicttrie.o
+ADDMOD release\lpicache.o
+ADDMOD release\matrixsearch.o
+ADDMOD release\mystdlib.o
+ADDMOD release\ngram.o
+ADDMOD release\pinyinime.o
+ADDMOD release\searchutility.o
+ADDMOD release\spellingtable.o
+ADDMOD release\spellingtrie.o
+ADDMOD release\splparser.o
+ADDMOD release\sync.o
+ADDMOD release\userdict.o
+ADDMOD release\utf16char.o
+ADDMOD release\utf16reader.o
+SAVE

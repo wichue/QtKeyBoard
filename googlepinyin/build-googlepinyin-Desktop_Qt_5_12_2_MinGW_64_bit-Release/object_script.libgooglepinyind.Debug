@@ -1,0 +1,18 @@
+CREATE bin\libgooglepinyind.a
+ADDMOD debug\dictbuilder.o
+ADDMOD debug\dictlist.o
+ADDMOD debug\dicttrie.o
+ADDMOD debug\lpicache.o
+ADDMOD debug\matrixsearch.o
+ADDMOD debug\mystdlib.o
+ADDMOD debug\ngram.o
+ADDMOD debug\pinyinime.o
+ADDMOD debug\searchutility.o
+ADDMOD debug\spellingtable.o
+ADDMOD debug\spellingtrie.o
+ADDMOD debug\splparser.o
+ADDMOD debug\sync.o
+ADDMOD debug\userdict.o
+ADDMOD debug\utf16char.o
+ADDMOD debug\utf16reader.o
+SAVE
